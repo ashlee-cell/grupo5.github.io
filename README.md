@@ -1,5 +1,7 @@
 # grupo5.github.io
-Landing Page 
+
+Landing Page
+
 Alertix es una plataforma digital orientada a fortalecer la seguridad ciudadana mediante la participación activa de la comunidad. La aplicación permite que los usuarios reporten incidentes en tiempo real, reciban alertas geolocalizadas y colaboren en la validación de información para prevenir situaciones de riesgo dentro de sus vecindarios.
 
 El proyecto surge como respuesta a la problemática de la inseguridad y a las limitaciones de los medios de comunicación tradicionales, como los grupos de mensajería, que suelen presentar desorganización, información no verificada y poca capacidad de coordinación entre vecinos. Alertix busca ofrecer una solución tecnológica que facilite una comunicación rápida, organizada y confiable entre la comunidad y los actores responsables de la seguridad.
@@ -7,7 +9,9 @@ El proyecto surge como respuesta a la problemática de la inseguridad y a las li
 Integrantes del equipo:
 
 Cruz Cuevas, Jorge Eduardo
+
 Manuelo Yupanqui, Ashlee Jhamylet 
+
 Valle Vargas, Gabriel Alexander 
 
 Segmentos Objetivo
