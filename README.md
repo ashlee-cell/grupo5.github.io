@@ -1,44 +1,80 @@
-# grupo5.github.io
-
 Landing Page
+Alertix
 
-Alertix es una plataforma digital orientada a fortalecer la seguridad ciudadana mediante la participación activa de la comunidad. La aplicación permite que los usuarios reporten incidentes en tiempo real, reciban alertas geolocalizadas y colaboren en la validación de información para prevenir situaciones de riesgo dentro de sus vecindarios.
+Alertix es una plataforma inteligente de seguridad ciudadana diseñada para mejorar la comunicación entre vecinos mediante el reporte y monitoreo de incidentes en tiempo real. Su objetivo es fortalecer la prevención del delito utilizando tecnología colaborativa, mapas interactivos y validación comunitaria de los reportes.
 
-El proyecto surge como respuesta a la problemática de la inseguridad y a las limitaciones de los medios de comunicación tradicionales, como los grupos de mensajería, que suelen presentar desorganización, información no verificada y poca capacidad de coordinación entre vecinos. Alertix busca ofrecer una solución tecnológica que facilite una comunicación rápida, organizada y confiable entre la comunidad y los actores responsables de la seguridad.
+La plataforma permite visualizar incidentes en un mapa, recibir alertas según la ubicación del usuario y acceder a un panel con estadísticas que facilitan el seguimiento de la seguridad dentro de la comunidad. Alertix busca reemplazar la desorganización de los grupos de mensajería por una solución moderna, confiable y fácil de usar.
 
-Integrantes del equipo:
-
+Integrantes del equipo
 Cruz Cuevas, Jorge Eduardo
-
-Manuelo Yupanqui, Ashlee Jhamylet 
-
-Valle Vargas, Gabriel Alexander 
-
+Manuelo Yupanqui, Ashlee Jhamylet
 Segmentos Objetivo
-
-Alertix está dirigido principalmente a tres segmentos de usuarios:
-
 Vecinos
 
-Personas que desean mantenerse informadas sobre incidentes cercanos, reportar situaciones de riesgo y contribuir a la seguridad de su comunidad.
+Personas interesadas en conocer los incidentes ocurridos cerca de su ubicación, reportar situaciones sospechosas y colaborar con la seguridad de su comunidad.
 
 Juntas Vecinales
 
-Representantes comunitarios encargados de coordinar acciones preventivas, validar reportes y fortalecer la comunicación entre los vecinos.
+Organizaciones comunitarias encargadas de coordinar acciones preventivas, verificar reportes y mantener una comunicación eficiente entre los vecinos.
 
-Municipalidades y áreas de Seguridad Ciudadana
+Municipalidades y Seguridad Ciudadana
 
-Entidades que requieren información organizada y geolocalizada para monitorear incidentes, identificar zonas de riesgo y mejorar la toma de decisiones en materia de seguridad.
+Instituciones que requieren información organizada y geolocalizada para monitorear incidentes, identificar zonas de riesgo y apoyar la toma de decisiones relacionadas con la seguridad pública.
 
-Principales características de la solución digital
+Principales características de Alertix
+Mapa Interactivo
 
-Alertix ofrece un conjunto de funcionalidades orientadas a mejorar la prevención y la comunicación comunitaria:
+Permite visualizar en tiempo real los incidentes reportados dentro de la ciudad mediante marcadores clasificados por tipo de evento, como robos, actividades sospechosas y zonas seguras.
 
-- Reporte de incidentes en tiempo real, permitiendo informar situaciones de riesgo de forma rápida.
-- Alertas geolocalizadas, que notifican a los usuarios sobre incidentes cercanos según su ubicación.
-- Mapa interactivo, para visualizar zonas de riesgo y reportes recientes.
-- Validación comunitaria, que permite confirmar la veracidad de los incidentes y reducir la desinformación.
-- Reportes con evidencia multimedia, mediante fotografías o videos que fortalecen la credibilidad de la información.
-- Notificaciones inteligentes, para informar únicamente sobre eventos relevantes para cada usuario.
-- Estadísticas de seguridad, que ayudan a identificar patrones e incidencias dentro de la comunidad.
-- Comunicación organizada, facilitando la coordinación entre vecinos, juntas vecinales y autoridades locales.
+Alertas Comunitarias
+
+Los usuarios pueden reportar incidentes y recibir notificaciones inmediatas cuando ocurre un evento cercano a su ubicación.
+
+Validación Vecinal
+
+Cada reporte puede ser confirmado por otros vecinos para reducir la difusión de información falsa y aumentar la confiabilidad de las alertas.
+
+Dashboard de Monitoreo
+
+Incluye un panel con indicadores importantes como:
+
+Reportes del día.
+Alertas verificadas.
+Tiempo promedio de respuesta.
+Usuarios activos.
+Tendencia semanal de incidentes.
+Actividad reciente.
+Estadísticas
+
+La plataforma presenta información estadística que ayuda a identificar patrones de inseguridad y facilita la prevención mediante datos actualizados.
+
+Diseño Responsivo
+
+La landing está diseñada para funcionar correctamente en computadoras, tablets y dispositivos móviles, ofreciendo una experiencia intuitiva para todos los usuarios.
+
+Interfaz Moderna
+
+Alertix presenta una interfaz limpia y organizada que facilita el acceso a las diferentes funcionalidades de la plataforma.
+
+Tecnologías utilizadas
+
+Para el desarrollo del Landing Page se utilizaron tecnologías web modernas:
+
+HTML5
+CSS3
+JavaScript
+Leaflet.js (Mapa interactivo)
+Chart.js (Dashboard y estadísticas)
+Font Awesome (Iconografía)
+Estructura de la Landing
+
+La página está organizada en las siguientes secciones:
+
+Hero principal
+Problema y solución
+Beneficios de Alertix
+Mapa interactivo
+Dashboard de monitoreo
+Preguntas frecuentes
+Contacto
+Footer
